@@ -1,3 +1,4 @@
 # Basic C/C++ Programs
 
-| No. | Questions 
+| No. | Questions                              |Done/Not Done|
+-------------------------------------------------------------|
